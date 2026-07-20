@@ -5,7 +5,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Fastband Core</title>
         <item>
             <title>0.1.1</title>
-            <pubDate>Sun, 19 Jul 2026 22:51:31 -0400</pubDate>
+            <pubDate>Sun, 19 Jul 2026 23:00:52 -0400</pubDate>
             <link>https://github.com/fastbandmedia/fastband-core</link>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
@@ -20,10 +20,10 @@ This MVP update restores compatibility with AIM installations that return canoni
 - Fastband Core checks the signed update feed daily while leaving download and installation under user control.
 - The packaged app includes Sparkle 2.9.4 and verifies the pinned Fastband release identity throughout installation.
 ]]></description>
-            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.1/Fastband-Core-0.1.1.zip" length="12003396" type="application/octet-stream" sparkle:edSignature="Rq5tOpu1FyD+z2Z7IabkzRzJe3Md9BAo7hWY4Wr71b46yJsRW2mWYfNGlpyMnuZWUo5euFo9GtuKKji72pwqBw=="></enclosure>
+            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.1/Fastband-Core-0.1.1.zip" length="12003366" type="application/octet-stream" sparkle:edSignature="j6kZfDeHzUhPXY6pPP25AUFiqxR43lqyHjXG9GGZIo2sWUpmWryjHXpykLvd119lDuLuQwHeN7A9wZCtliy6DQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TjOI4k8sB/c+k71ActR5prA0SBXivQLGfmOIYjQiW3CczrEi+Y0eMiRQuM4gnJNud5Kx18rpw2r68K1ctFAEBA==
+edSignature: l3yGfCtJxKk9D3C+xg4vR+x1WJptRqbdqM/kGxLcq7BTnNvM6PWvNBOg1F0LSG9AbKMM6taF9vCIAdBdfkejAg==
 length: 1903
 -->
