@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fastband Core</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 19 Jul 2026 22:51:31 -0400</pubDate>
+            <link>https://github.com/fastbandmedia/fastband-core</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Fastband Core 0.1.1
+
+This MVP update restores compatibility with AIM installations that return canonical numeric repository identifiers and introduces Fastband Core's signed, user-controlled update lifecycle.
+
+- AIM status, claim, and launch authorization now accept valid canonical repository identifiers.
+- **Check for Updates…** is available from the Fastband Core menu.
+- Fastband Core checks the signed update feed daily while leaving download and installation under user control.
+- The packaged app includes Sparkle 2.9.4 and verifies the pinned Fastband release identity throughout installation.
+]]></description>
+            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.1/Fastband-Core-0.1.1.zip" length="12003396" type="application/octet-stream" sparkle:edSignature="Rq5tOpu1FyD+z2Z7IabkzRzJe3Md9BAo7hWY4Wr71b46yJsRW2mWYfNGlpyMnuZWUo5euFo9GtuKKji72pwqBw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: TjOI4k8sB/c+k71ActR5prA0SBXivQLGfmOIYjQiW3CczrEi+Y0eMiRQuM4gnJNud5Kx18rpw2r68K1ctFAEBA==
+length: 1903
+-->
