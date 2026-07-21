@@ -4,26 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Fastband Core</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Sun, 19 Jul 2026 23:34:57 -0400</pubDate>
+            <title>0.1.2</title>
+            <pubDate>Tue, 21 Jul 2026 09:38:29 -0400</pubDate>
             <link>https://github.com/fastbandmedia/fastband-core</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Fastband Core 0.1.1
+            <description sparkle:format="markdown"><![CDATA[# Fastband Core 0.1.2
 
-This MVP update restores compatibility with AIM installations that return canonical numeric repository identifiers and introduces Fastband Core's signed, user-controlled update lifecycle.
+## Highlights
 
-- AIM status, claim, and launch authorization now accept valid canonical repository identifiers.
-- **Check for Updates…** is available from the Fastband Core menu.
-- Fastband Core checks the signed update feed daily while leaving download and installation under user control.
-- The packaged app includes Sparkle 2.9.4 and verifies the pinned Fastband release identity throughout installation.
+- Adds the bundled Fastband Core User Guide, available from the FBC utility rail.
+- Documents first-run setup, new environment creation, existing-environment import, OrbStack, Linear, AIM, Git, tmux, troubleshooting, and best practices.
+- Adds FBM Brain synchronization for the living guide with provenance and checksum evidence.
+
+This is an internal Sparkle update for controlled Fastband Macs. Review the guide after restarting FBC and choose **User guide** from the left rail.
 ]]></description>
-            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.1/Fastband-Core-0.1.1.zip" length="12003385" type="application/octet-stream" sparkle:edSignature="4zHSfVih+z3hesbx9oYzlfWaloaVIvjOVmW/Uy28ffrSNA1EJz5DmYXRE4+fr5NzgUoPQbN9kPqdCn51P2T1AQ=="></enclosure>
+            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.2/Fastband-Core-0.1.2.zip" length="12981574" type="application/octet-stream" sparkle:edSignature="IjHBZk2exmACrjtGF7WAOP68SZvgh4pc6jvKbbKbP0YK0dTyTttzlHphhtoOlgyKgNhxmQf82G+EeaFFW3yHDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bG3ELw0PP0xwy3gD4PrFLSG4Fh8fmtze2L3R05UWWUwCl5zHtCR+YFYKwohQiC3ThRCVS2USidIUbHGfOBdZDA==
-length: 1903
+edSignature: S91jdNdd4LUPFuIL7GNdWOMnYiZQkaP9UNvbmJr73qcDa/aeZzeyXGyMmcJEJtaSJL1E4DGfJPQ6Lk+td3ZbBw==
+length: 1814
 -->
