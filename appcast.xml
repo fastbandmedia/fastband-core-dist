@@ -4,26 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Fastband Core</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Tue, 21 Jul 2026 14:39:14 -0400</pubDate>
+            <title>0.1.5</title>
+            <pubDate>Tue, 21 Jul 2026 15:07:48 -0400</pubDate>
             <link>https://github.com/fastbandmedia/fastband-core</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Fastband Core 0.1.4
+            <description sparkle:format="markdown"><![CDATA[# Fastband Core 0.1.5
 
 ## Highlights
 
-- Refreshes the living User Guide with the Fastband Core war-room visual system.
-- Adds branded FBCORE inline and stacked logo assets to the bundled guide.
-- Adds a polished, accessible Return to Fastband Core action.
-- Fixes guide navigation so the document opens instead of reloading the app shell.
+- Rebuilds the living User Guide as an operator-focused FBC field manual.
+- Adds a command masthead, environment Lifeline, mission index, and responsive dossier layout.
+- Uses the approved FBCORE inline and white stacked brand assets throughout the guide.
+- Keeps a persistent, styled Return to Fastband Core action available from the guide.
 ]]></description>
-            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.4/Fastband-Core-0.1.4.zip" length="13319522" type="application/octet-stream" sparkle:edSignature="XTsF2cizIx0LKrg7NzCaGQi77N5867V4LjpmQFinJL/5tGXXpX1BMbvhOTfI53RqB7z/O1LAoCkoPWHQ+E1lCA=="></enclosure>
+            <enclosure url="https://github.com/fastbandmedia/fastband-core-dist/releases/download/v0.1.5/Fastband-Core-0.1.5.zip" length="13346054" type="application/octet-stream" sparkle:edSignature="ED3OM44XYBfLhz/WE83QYsP1rlxY5jjKKY4GwcaT7gtBB4Y+Te3kVleVPCPWLMmRX1KQ6Qgsnb8uw5oPddyJBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Gb9ZASMUtpo35V/F96Yi592RxjPTJ1t9/mR9B0ZvMH5Y8geEM/sXOxEboApxnJtIDZ2RRJW2UGrUOKVFPeNrAA==
-length: 1635
+edSignature: gj/E+6/1bZde9jrToXdzgt/D5EdYhbPu7RSs9bio+8uUUWN/GT0rbPH7JGZA+WF2ECn1XJzFxv/NHTrmNhhYDw==
+length: 1676
 -->
